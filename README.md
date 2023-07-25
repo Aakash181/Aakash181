@@ -23,7 +23,7 @@
 
 ⚡ Fun fact **We guys automate stuff**
 
-##### 👨‍💻 Some of the projects I have worked recently
+##### 👨‍💻 Some of the projects I have worked on recently
 
 - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Aakash181)
 
