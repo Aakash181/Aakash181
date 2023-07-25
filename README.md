@@ -7,7 +7,7 @@
 </a>
   &nbsp;&nbsp;
   
-<a href="https://instagram.com/aakash_akc" target="blank">
+<a href="https://www.instagram.com/aakash_akc/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" /></p>
 💡 Hashtag that describes me **`#DevOps`**
 
