@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakash Chaurasiya 🌀 from India 🇮🇳</h1>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aakash+%F0%9F%91%8B;Computer+Science+Student;DevOps-Cloud+Engineer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h3 align="center">The DevOps ,Cloud Guy </h3>
 
 <p align="center">
