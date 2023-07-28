@@ -25,7 +25,7 @@
 
 ##### 👨‍💻 Some of the projects I have worked on recently
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Aakash181)
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Aakash181/kubernetes-cluster-on-aws-terraform)
 
 - 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/)
 
